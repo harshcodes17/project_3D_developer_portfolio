@@ -54,12 +54,15 @@ const services = [
     url: "https://codeforces.com/profile/harsh_bamane17",
     icon: creator,
   },
+  
   {
     title: "LeetCode",
+    url: "https://leetcode.com/harshbamane17/",
     icon: carrent,
   },
   {
     title: "CodeChef",
+    url: "https://www.codechef.com/users/harsh_bamane17",
     icon: mobile,
   }
 ];
